@@ -43,7 +43,7 @@ inquirer.prompt([
 {
 	type: 'input',
 	name: 'size',
-	message: (flashcard.allQuestion.Q5.question).replace("What", "--------"),
+	message: (flashcard.allQuestion.Q4.question).replace("What", "--------"),
 	name: 'oneQ'
 },
 {
